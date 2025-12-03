@@ -1,0 +1,4 @@
+2016-10-24 : project created
+Wed Oct 26 19:14:34 EDT 2016 - First workable version, 1 unique container, 2M pixels per sec
+Wed Oct 26 22:13:55 EDT 2016 - Map instead of fixed arrays, starting of modularity, 3M pixels per sec
+Wed Nov 2 06:26:44 EDT 2016 - Fully workable, various optimizations (time & memory), camera, threaded rendering, 100k pixels per sec (VirtualBox 4 cores - Mageia)

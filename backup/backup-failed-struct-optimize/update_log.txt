@@ -1,0 +1,2 @@
+2016-10-24 : project created
+Wed Oct 26 11:08:10 EDT 2016 First workable version, 1 unique container, 2M pixels per sec
