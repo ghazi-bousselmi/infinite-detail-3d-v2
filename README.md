@@ -1,0 +1,1 @@
+![3D rendered image](https://lh3.googleusercontent.com/sitesv/AAzXCkd5E5XdMKRoCAGtgN1GJoxYntWAi0y4HGSvJy3NI4w7_YmH4DRRhVcu6cz_1s9wnaIMtToz6k1W_47RM9XqOc9mQXUZgZKTMiP7Ywzhm7zVMzN8_zq6hXeoUV9RSzgAdwcrXBPhbUazfpZN9uIjB71Fk6ZhP1gc=w1280)
